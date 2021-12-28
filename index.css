@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+
+
+.parent-container{
+    margin: auto;
+    margin-top:55px;
+    
+    width: 70vw;
+    background-color: white;
+    padding-bottom: 20px;
+    
+}
+
+
+.child-container{
+    text-align: center;
+}
